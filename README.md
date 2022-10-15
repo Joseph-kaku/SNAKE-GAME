@@ -1,7 +1,7 @@
 # SNAKE-GAME
 # Overview
 
-In this progrma i was trying to refresh my memory on using classes. 
+In this program I was trying to refresh my memory on using classes. 
 
 This is a simple snake game. You will use the arrow keys to move and eat food that randomly appears on the screen that has been built using the code
 
